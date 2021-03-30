@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Fatih/Desktop/cmpe250-project1-mhrfkyqqq/LinkedList.h
+iostream
+-
+Node.h
+/cygdrive/c/Users/Fatih/Desktop/cmpe250-project1-mhrfkyqqq/Node.h
+
+/cygdrive/c/Users/Fatih/Desktop/cmpe250-project1-mhrfkyqqq/Node.h
+iostream
+-
+
+/cygdrive/c/Users/Fatih/Desktop/cmpe250-project1-mhrfkyqqq/SurveyClass.cpp
+SurveyClass.h
+/cygdrive/c/Users/Fatih/Desktop/cmpe250-project1-mhrfkyqqq/SurveyClass.h
+
+/cygdrive/c/Users/Fatih/Desktop/cmpe250-project1-mhrfkyqqq/SurveyClass.h
+LinkedList.h
+/cygdrive/c/Users/Fatih/Desktop/cmpe250-project1-mhrfkyqqq/LinkedList.h
+string
+-
+
